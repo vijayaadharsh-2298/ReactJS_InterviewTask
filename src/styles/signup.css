@@ -1,0 +1,30 @@
+.signupform{
+    color: white;
+}
+
+input[type ="text"],
+input[type ="email"],
+input[type ="password"]{
+    background: transparent;
+    color: white;
+    border: 1px solid black;
+}
+
+form{
+    width: 450px;
+    margin: auto;
+}
+
+.button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 30px;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 1px solid green;
+}
